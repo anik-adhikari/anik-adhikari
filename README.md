@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnikAdhikari7
-- 👀 I’m interested in Web & App development
-- 🌱 I’m currently learning C, HTML, CSS & JS
-- 🤝 I’m looking for help with any Web and App develop related problems 
+- 👀 I’m interested in App development
+- 🌱 I’m currently learning Java & Android App Developing with Kotlin
+- 🤝 I’m looking for help with any App develop related problems 
 - 📫 How to reach me developwithanik@gmail.com
 
 <!---
