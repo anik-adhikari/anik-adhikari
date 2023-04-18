@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kotlin and Android Studio**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnikAdhikari7](https://github.com/AnikAdhikari7)
+- 👨‍💻 All of my open-source projects are available at [AnikAdhikari7/projects](https://github.com/AnikAdhikari7?tab=repositories)
 
 - 💬 Ask me about **C, DSA, Java**
 
