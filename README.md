@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/meanikadhikari" target="blank"><img src="https://img.shields.io/twitter/follow/meanikadhikari?logo=twitter&style=for-the-badge" alt="meanikadhikari" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin and Android Studio**
+- 🌱 I’m currently learning **Flutter, Kotlin and Android Studio**
 
 - 👨‍💻 All of my open-source projects are available at [AnikAdhikari7/projects](https://github.com/AnikAdhikari7?tab=repositories)
 
