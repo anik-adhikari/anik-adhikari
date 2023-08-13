@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my open-source projects are available at [AnikAdhikari7/projects](https://github.com/AnikAdhikari7?tab=repositories)
 
-- 💬 Ask me about **C, DSA, Java**
+- 💬 Ask me about **Flutter, Android**
 
 - 📫 How to reach me **developwithanik@gmail.com**
 
