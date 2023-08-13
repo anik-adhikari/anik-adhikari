@@ -1,6 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://bio.link/anikadhikari)
+<p align="center"> <a href="https://anikadhikari.bio.link" >
+<img src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif" > </a> </p>
 
-<h1 align="center">Hi 👋, I'm Anik Adhikari</h1>
+<!--- [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://bio.link/anikadhikari) -->
+<!--- [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://bio.link/anikadhikari) -->
+<!--- [![MasterHead](https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif)](https://bio.link/anikadhikari) -->
+<!--- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://bio.link/anikadhikari) -->
+
+<h1 align="center">👋, I'm Anik Adhikari</h1>
 <h3 align="center">// just another tech enthusiast...</h3>
 
 <a href='https://github.com/samadpls/Programing-Gifs'>
