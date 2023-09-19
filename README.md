@@ -120,6 +120,7 @@
 
 ---
 
-
-## 💁‍♂️ Support
-<p><a href="https://www.buymeacoffee.com/anikadhikari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anikadhikari" /></a></p><br><br>
+<p align="center"> If you appreciate my work, perhaps you could consider treating me to a coffee or tea!? <img src="https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif" width="25">
+<p align="center">
+         <a href="https://www.buymeacoffee.com/anikadhikari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="50" width="210" alt="Buy Me A Coffee" /> </a>
+</p>
