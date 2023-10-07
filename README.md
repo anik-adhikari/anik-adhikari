@@ -18,11 +18,11 @@
 
 <p align="left"> <a href="https://twitter.com/meanikadhikari" target="blank"><img src="https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=x&label=Follow%20%40MeAnikAdhikari&labelColor=black" alt="meanikadhikari" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Kotlin and Android Studio**
+- 🌱 I’m currently learning **Backend in JS 🤕**
 
 - 👨‍💻 All of my open-source projects are available at [AnikAdhikari7/projects](https://github.com/AnikAdhikari7?tab=repositories)
 
-- 💬 Ask me about **Flutter, Android**
+- 💬 Ask me about **Programming 😉**
 
 - 📫 How to reach me **developwithanik@gmail.com**
 
@@ -31,13 +31,13 @@
 ---
 
 ## <img src="https://media.giphy.com/media/dhGGpFEXFUN63MVaSR/giphy.gif" width="50"> Connect with me
-[![Dev](https://img.shields.io/badge/Dev-%230A0A0A?style=social&logo=dev.to)](https://dev.to/anikadhikari)
-[![Static Badge](https://img.shields.io/badge/xdadevelopers-%23EA7100?style=social&logo=xdadevelopers)](https://forum.xda-developers.com/m/anikadhikari.12668517/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231D9BF0?style=social&logo=twitter)](https://twitter.com/meanikadhikari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin)](https://linkedin.com/in/anikadhikari)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram)](https://instagram.com/meanikadhikari)
-[![Medium](https://img.shields.io/badge/Medium-%23000000?style=social&logo=medium)](https://medium.com/@anikadhikari)
-[![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF?style=social&logo=hashnode)](https://hashnode.com/@anikadhikari)
+[![Dev](https://img.shields.io/badge/Dev-%230A0A0A?style=social&logo=dev.to)](https://dev.to/anikadhikari) &ensp;
+[![Static Badge](https://img.shields.io/badge/xdadevelopers-%23EA7100?style=social&logo=xdadevelopers)](https://forum.xda-developers.com/m/anikadhikari.12668517/) &ensp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231D9BF0?style=social&logo=twitter)](https://twitter.com/meanikadhikari) &ensp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin)](https://linkedin.com/in/anikadhikari) &ensp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram)](https://instagram.com/meanikadhikari) &ensp;
+[![Medium](https://img.shields.io/badge/Medium-%23000000?style=social&logo=medium)](https://medium.com/@anikadhikari) &ensp;
+[![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF?style=social&logo=hashnode)](https://hashnode.com/@anikadhikari) &ensp;
 
 
 ## <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="50"> Languages and Tools
