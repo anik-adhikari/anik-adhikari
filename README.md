@@ -118,6 +118,8 @@ npx anik-adhikari
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=anikadhikari7&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
 <p align="center">
