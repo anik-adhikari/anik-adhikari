@@ -11,6 +11,12 @@
          width="50" />, I'm Anik Adhikari</h1>
 <h3 align="center">// just another tech enthusiast...</h3>
 
+👇 Hit in your console or terminal to connect with me: [repo 👉 [npx anik-adhikari](https://github.com/AnikAdhikari7/npx-card)]
+
+```bash
+npx anik-adhikari
+```
+
 <a href='https://github.com/samadpls/Programing-Gifs'>
 <img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
 
