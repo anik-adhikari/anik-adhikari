@@ -108,7 +108,7 @@ npx anik-adhikari
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikadhikari7&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anikadhikari7&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=false&count_private=true" alt="anikadhikari7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anikadhikari7&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" />
 </p>
 
 
