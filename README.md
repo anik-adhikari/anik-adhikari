@@ -124,7 +124,7 @@ npx anik-adhikari
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-967.3%20thousand%20lines%20of%20code-blue)
 
 
- Last Updated on 15/01/2024 17:09:08 UTC
+ Last Updated on 15/01/2024 18:12:00 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
