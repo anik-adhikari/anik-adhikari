@@ -118,6 +118,8 @@ npx anik-adhikari
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=anikadhikari7&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" />
 </p>
 
+## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
