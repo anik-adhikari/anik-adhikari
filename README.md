@@ -9,7 +9,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          width="50" />, I'm Anik Adhikari</h1>
-<h3 align="center">// just another tech enthusiast...</h3>
+<h3 align="right">// just another tech enthusiast... 🧑🏻‍💻</h3>
 
 👇 Hit in your console or terminal to connect with me: [repo 👉 [npx anik-adhikari](https://github.com/AnikAdhikari7/npx-card)]
 
