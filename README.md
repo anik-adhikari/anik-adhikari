@@ -181,3 +181,15 @@ Windows                  18 hrs 38 mins      ███████████�
 <p align="center">
          <a href="https://www.buymeacoffee.com/anikadhikari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="50" width="210" alt="Buy Me A Coffee" /> </a>
 </p>
+
+
+<!---
+Hello, kind Visitor! 🌟 Thank you for taking the time to explore and download my readme.md file.
+
+If you find my work valuable, a shout-out would mean the world to me! 🥺👉👈
+Your support keeps the creative vibes flowing.🤝
+
+Feel free to customize the fields as needed and dive into the joy of personalization! 🚀 Happy tinkering and crafting your unique experience!
+
+Cheers to collaboration and happy coding! 🎉👩‍💻👨‍💻
+--->
