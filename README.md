@@ -9,13 +9,20 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          width="50" />, I'm Anik Adhikari</h1>
-<h3 align="right">// just another tech enthusiast... 🧑🏻‍💻</h3>
+<!-- <h2 align="center"># just another tech enthusiast... 🧑🏻‍💻</h2> -->
 
-👇 Hit in your console or terminal to connect with me: [repo 👉 [npx anik-adhikari](https://github.com/AnikAdhikari7/npx-card)]
+<details>
+         <summary>
+                👇 Hit in your console or terminal to connect with me:  
+         </summary>
+         repo 👉 <a href="https://github.com/AnikAdhikari7/npx-card">[npx anik-adhikari]</a>
+</details>
 
 ```bash
 npx anik-adhikari
 ```
+
+---
 
 <a href='https://github.com/samadpls/Programing-Gifs'>
 <img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
@@ -32,7 +39,7 @@ npx anik-adhikari
 
 - 📫 How to reach me **developwithanik@gmail.com**
 
-- ⚡ Fun fact **I think I am a good chef.**
+- ⚡ Fun fact **I think I am a good chef.** <br/> <br/>
 
 ---
 
