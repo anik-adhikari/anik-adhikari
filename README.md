@@ -24,7 +24,7 @@ npx anik-adhikari
 
 <p align="left"> <a href="https://twitter.com/meanikadhikari" target="blank"><img src="https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=x&label=Follow%20%40MeAnikAdhikari&labelColor=black" alt="meanikadhikari" /></a> </p>
 
-- 🌱 I’m currently learning **Backend in JS 🤕**
+- 🌱 I’m currently learning **Backend with Python and JS 🤕**
 
 - 👨‍💻 All of my open-source projects are available at [AnikAdhikari7/projects](https://github.com/AnikAdhikari7?tab=repositories)
 
