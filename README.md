@@ -159,20 +159,17 @@ Sunday                   73 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Nginx configuration file 40 mins             ███████████████░░░░░░░░░░   59.07 % 
-YAML                     25 mins             █████████░░░░░░░░░░░░░░░░   36.37 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/03/2024 18:36:17 UTC
+ Last Updated on 20/03/2024 18:36:35 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
