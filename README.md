@@ -121,8 +121,8 @@ npx anik-adhikari
 
 ## <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> GitHub Stats
 <p align="">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=anikadhikari7&show_icons=true&locale=en&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" height="175"/>
-  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=anikadhikari7&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" height="175"/>
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=anikadhikari7&show_icons=true&locale=en&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" height="170"/>
+  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=anikadhikari7&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" height="170"/>
 </p>
 
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
