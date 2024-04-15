@@ -128,6 +128,8 @@ npx anik-adhikari
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%203%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -172,7 +174,7 @@ Windows                  5 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/04/2024 22:58:42 UTC
+ Last Updated on 15/04/2024 18:37:24 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
