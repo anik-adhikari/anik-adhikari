@@ -159,20 +159,17 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               17 mins             ██████████░░░░░░░░░░░░░░░   39.06 % 
-TSConfig                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-Docker                   9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-JSON                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/06/2024 18:40:01 UTC
+ Last Updated on 14/06/2024 18:39:59 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
