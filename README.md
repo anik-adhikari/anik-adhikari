@@ -159,19 +159,17 @@ Sunday                   86 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   29 mins             █████████████████████░░░░   83.48 % 
-CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/08/2024 18:40:47 UTC
+ Last Updated on 03/08/2024 18:39:12 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
