@@ -128,10 +128,48 @@ npx anik-adhikari
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2046%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 08/09/2024 18:40:59 UTC
+```text
+🌞 Morning                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+🌆 Daytime                252 commits         ████████░░░░░░░░░░░░░░░░░   33.87 % 
+🌃 Evening                287 commits         ██████████░░░░░░░░░░░░░░░   38.58 % 
+🌙 Night                  156 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   111 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Tuesday                  98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Wednesday                123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Thursday                 156 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Friday                   128 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Saturday                 42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 09/09/2024 18:42:59 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
