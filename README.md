@@ -37,7 +37,7 @@ npx anik-adhikari
 
 - 💬 Ask me about **Programming 😉**
 
-- 📫 How to reach me **developwithanik@gmail.com**
+- 📫 How to reach me **anikadhikari.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am a good chef.** <br/> <br/>
 
