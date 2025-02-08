@@ -128,7 +128,7 @@ npx anik-adhikari
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -159,19 +159,19 @@ Sunday                   86 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 39 mins       █████████████████████████   99.70 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JavaScript               3 hrs 26 mins       █████████████████████████   99.77 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/02/2025 18:43:50 UTC
+ Last Updated on 08/02/2025 18:40:28 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
