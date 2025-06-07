@@ -38,7 +38,7 @@ npx anik-adhikari
 
 <!-- <a href='https://github.com/samadpls/Programing-Gifs'> -->
 <!-- <img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a> -->
-<img align='right' src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+<img align='right' src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png' widht=100 height=300 alt='samadpls/Programming-Gifs'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikadhikari7&label=Profile%20views&color=0e75b6&style=for-the-badge&icon=0" alt="anikadhikari7" /> </p>
 
