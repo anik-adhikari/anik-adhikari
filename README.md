@@ -1,5 +1,19 @@
-<p align="center"> <a href="https://anikadhikari.bio.link" >
-<img src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif" > </a> </p>
+<!-- <p align="center"> <a href="https://anikadhikari.bio.link" > -->
+
+<div align='center'>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+         
+</div>
+
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif" > </a> </p> -->
 
 <!--- [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://bio.link/anikadhikari) -->
 <!--- [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://bio.link/anikadhikari) -->
@@ -8,7 +22,7 @@
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         width="50" />, I'm Anik Adhikari</h1>
+         width="50" />Hello, I'm Anik Adhikari</h1>
 <!-- <h2 align="center"># just another tech enthusiast... 🧑🏻‍💻</h2> -->
 
 <details>
@@ -22,18 +36,17 @@
 npx anik-adhikari
 ```
 
----
+<!-- <a href='https://github.com/samadpls/Programing-Gifs'> -->
+<!-- <img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a> -->
+<img align='right' src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
 
-<a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikadhikari7&label=Profile%20views&color=0e75b6&style=social&icon=0" alt="anikadhikari7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikadhikari7&label=Profile%20views&color=0e75b6&style=for-the-badge&icon=0" alt="anikadhikari7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/meanikadhikari" target="blank"><img src="https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=x&label=Follow%20%40MeAnikAdhikari&labelColor=black" alt="meanikadhikari" /></a> </p>
 
 - 🌱 I’m currently learning **Backend with Python and JS 🤕**
 
-- 👨‍💻 All of my open-source projects are available at [AnikAdhikari7/projects](https://github.com/AnikAdhikari7?tab=repositories)
+- 👨‍💻 I like exploring **GNU/Linux** &ensp; [![fedora](https://img.shields.io/badge/Fedora-51A2DA?style=plastic&logo=fedora&labelColor=fff)](https://www.fedoraproject.org/) &ensp;
 
 - 💬 Ask me about **Programming 😉**
 
@@ -44,13 +57,13 @@ npx anik-adhikari
 ---
 
 ## <img src="https://media.giphy.com/media/dhGGpFEXFUN63MVaSR/giphy.gif" width="50"> Connect with me
-[![Dev](https://img.shields.io/badge/Dev-%230A0A0A?style=social&logo=dev.to)](https://dev.to/anikadhikari) &ensp;
-[![Static Badge](https://img.shields.io/badge/xdadevelopers-%23EA7100?style=social&logo=xdadevelopers)](https://forum.xda-developers.com/m/anikadhikari.12668517/) &ensp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231D9BF0?style=social&logo=twitter)](https://twitter.com/meanikadhikari) &ensp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin)](https://linkedin.com/in/anikadhikari) &ensp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram)](https://instagram.com/meanikadhikari) &ensp;
-[![Medium](https://img.shields.io/badge/Medium-%23000000?style=social&logo=medium)](https://medium.com/@anikadhikari) &ensp;
-[![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF?style=social&logo=hashnode)](https://hashnode.com/@anikadhikari) &ensp;
+[![Dev](https://img.shields.io/badge/Dev-230A0A0A?style=social&logo=dev.to)](https://dev.to/anikadhikari) &ensp;
+[![Static Badge](https://img.shields.io/badge/xdadevelopers-23EA7100?style=social&logo=xdadevelopers)](https://forum.xda-developers.com/m/anikadhikari.12668517/) &ensp;
+[![Twitter](https://img.shields.io/badge/Twitter-231D9BF0?style=social&logo=x)](https://twitter.com/meanikadhikari) &ensp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-230A66C2?style=social&logo=linkedin)](https://linkedin.com/in/anikadhikari) &ensp;
+[![Instagram](https://img.shields.io/badge/Instagram-23E4405F?style=social&logo=instagram)](https://instagram.com/meanikadhikari) &ensp;
+[![Medium](https://img.shields.io/badge/Medium-23000000?style=social&logo=medium)](https://medium.com/@anikadhikari) &ensp;
+[![Hashnode](https://img.shields.io/badge/Hashnode-232962FF?style=social&logo=hashnode)](https://hashnode.com/@anikadhikari) &ensp;
 
 
 ## <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="50"> Languages and Tools
@@ -109,7 +122,7 @@ npx anik-adhikari
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
+<!--
 ## <img src="https://media.giphy.com/media/UTSQ9uDYdL1V19C9DB/giphy.gif" width="50"> Quick Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikadhikari7&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" />
@@ -117,13 +130,29 @@ npx anik-adhikari
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anikadhikari7&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" />
 </p>
+-->
 
 
 ## <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> GitHub Stats
+<!--
 <p align="">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=anikadhikari7&show_icons=true&locale=en&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" height="170"/>
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=anikadhikari7&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" height="170"/>
 </p>
+-->
+
+| Repos per Language | Stats | Most Commit Language |
+|--------------------|-------|----------------------|
+| ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnikAdhikari7&theme=gotham) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnikAdhikari7&theme=gotham) | ![Most Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnikAdhikari7&theme=gotham) |
+
+<details>
+  <summary>Quick Overview</summary>
+         
+<br></br>         
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnikAdhikari7&theme=gotham&show_icons=true&include_all_commits=true)
+
+</details>
+
 
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
