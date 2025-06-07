@@ -209,7 +209,13 @@ Linux                    1 hr 36 mins        ███████████�
 
 ---
 
-<p align="center"> If you appreciate my work, perhaps you could consider treating me to a coffee or tea!? <img src="https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif" width="25">
+<div align='center' width='100%'>
+
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+         
+</div>
+
+<p align="center"> If you appreciate my work, perhaps you could consider treating me to a coffee or tea !? <img src="https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif" width="25">
 <p align="center">
          <a href="https://www.buymeacoffee.com/anikadhikari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="50" width="210" alt="Buy Me A Coffee" /> </a>
 </p>
