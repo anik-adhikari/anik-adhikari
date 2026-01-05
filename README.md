@@ -171,9 +171,9 @@ npx anik-adhikari
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2021%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.00%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.00%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -212,7 +212,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/01/2026 18:50:57 UTC
+ Last Updated on 05/01/2026 18:55:40 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
