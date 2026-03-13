@@ -171,7 +171,7 @@ npx anik-adhikari
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-217.82%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -202,7 +202,7 @@ Sunday                   70 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 38 mins       ████████████████████████░   95.76 % 
+TypeScript               4 hrs 39 mins       ████████████████████████░   95.76 % 
 Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
@@ -215,7 +215,7 @@ Linux                    4 hrs 51 mins       ███████████�
 ```
 
 
- Last Updated on 12/03/2026 19:24:10 UTC
+ Last Updated on 13/03/2026 19:08:02 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
