@@ -29,7 +29,7 @@
          <summary>
                 👇 Hit in your console or terminal to connect with me:  
          </summary>
-         repo 👉 <a href="https://github.com/AnikAdhikari7/npx-card">[npx anik-adhikari]</a>
+         repo 👉 <a href="https://github.com/anik-adhikari/npx-card">[npx anik-adhikari]</a>
 </details>
 
 ```bash
@@ -40,7 +40,7 @@ npx anik-adhikari
 <!-- <img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a> -->
 <img align='right' src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png' widht=100 height=300 alt='samadpls/Programming-Gifs'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikadhikari7&label=Profile%20views&color=0e75b6&style=for-the-badge&icon=0" alt="anikadhikari7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anik-adhikari&label=Profile%20views&color=0e75b6&style=for-the-badge&icon=0" alt="anik-adhikari" /> </p>
 
 <p align="left"> <a href="https://twitter.com/meanikadhikari" target="blank"><img src="https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=x&label=Follow%20%40MeAnikAdhikari&labelColor=black" alt="meanikadhikari" /></a> </p>
 
@@ -133,10 +133,10 @@ npx anik-adhikari
 <!--
 ## <img src="https://media.giphy.com/media/UTSQ9uDYdL1V19C9DB/giphy.gif" width="50"> Quick Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikadhikari7&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anik-adhikari&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=false&count_private=true" alt="anik-adhikari" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anikadhikari7&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anik-adhikari&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=false&count_private=true" alt="anik-adhikari" />
 </p>
 -->
 
@@ -144,26 +144,26 @@ npx anik-adhikari
 ## <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> GitHub Stats
 <!--
 <p align="">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=anikadhikari7&show_icons=true&locale=en&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" height="170"/>
-  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=anikadhikari7&theme=gotham&hide_border=false&count_private=true" alt="anikadhikari7" height="170"/>
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=anik-adhikari&show_icons=true&locale=en&theme=gotham&hide_border=false&count_private=true" alt="anik-adhikari" height="170"/>
+  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=anik-adhikari&theme=gotham&hide_border=false&count_private=true" alt="anik-adhikari" height="170"/>
 </p>
 -->
 
 <div align='center'>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnikAdhikari7&theme=gotham" width="33%" alt="Repos per Language"/>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnikAdhikari7&theme=gotham" width="33%" alt="GitHub Stats"/>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnikAdhikari7&theme=gotham" width="33%" alt="Most Commit Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anik-adhikari&theme=gotham" width="33%" alt="Repos per Language"/>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anik-adhikari&theme=gotham" width="33%" alt="GitHub Stats"/>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anik-adhikari&theme=gotham" width="33%" alt="Most Commit Language"/>
 </div>
 
 <!--
 | Repos per Language | Stats | Most Commit Language |
 |--------------------|-------|----------------------|
-| ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnikAdhikari7&theme=gotham) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnikAdhikari7&theme=gotham) | ![Most Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnikAdhikari7&theme=gotham) |
+| ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anik-adhikari&theme=gotham) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anik-adhikari&theme=gotham) | ![Most Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anik-adhikari&theme=gotham) |
 -->
 
 <details>
   <summary>Quick Overview</summary>
          
 <br></br>         
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnikAdhikari7&theme=gotham&show_icons=true&include_all_commits=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anik-adhikari&theme=gotham&show_icons=true&include_all_commits=true)
 
 </details>
 
