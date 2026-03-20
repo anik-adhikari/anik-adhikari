@@ -42,17 +42,17 @@ npx anik-adhikari
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik-adhikari&label=Profile%20views&color=0e75b6&style=for-the-badge&icon=0" alt="anik-adhikari" /> </p>
 
-<p align="left"> <a href="https://twitter.com/meanikadhikari" target="blank"><img src="https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=x&label=Follow%20%40MeAnikAdhikari&labelColor=black" alt="meanikadhikari" /></a> </p>
+<p align="left"> <a href="https://x.com/imanikadhikari" target="blank"><img src="https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=x&label=Follow%20%40imanikadhikari&labelColor=black" alt="imanikadhikari" /></a> </p>
 
-- 🌱 I’m currently learning **Backend with Python and JS 🤕**
+- 🌱 I’m currently learning **AI Tech to survive and thrive in this cruel era. 🤕**
 
 - 👨‍💻 I like exploring **GNU/Linux** &ensp; [![fedora](https://img.shields.io/badge/Fedora-51A2DA?style=plastic&logo=fedora&labelColor=fff)](https://www.fedoraproject.org/) &ensp;
 
-- 💬 Ask me about **Programming 😉**
+- 💬 Ask me about **Programming & Philosophy: 😉**
 
-- 📫 How to reach me **anikadhikari.dev@gmail.com**
+- 📫 How to reach me **anikadhikari.dev@gmail.com 📧**
 
-- ⚡ Fun fact **I think I am a good chef.** <br/> <br/>
+- ⚡ Fun fact **I think I am a good chef! 🧑‍🍳** <br/> <br/>
 
 ---
 
