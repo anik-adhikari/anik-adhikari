@@ -133,10 +133,10 @@ npx anik-adhikari
 <!--
 ## <img src="https://media.giphy.com/media/UTSQ9uDYdL1V19C9DB/giphy.gif" width="50"> Quick Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anik-adhikari&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=false&count_private=true" alt="anik-adhikari" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anik-adhikari&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=false&count_private=true" alt="anik-adhikari" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anik-adhikari&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=false&count_private=true" alt="anik-adhikari" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anik-adhikari&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=false&count_private=true" alt="anik-adhikari" />
 </p>
 -->
 
@@ -144,28 +144,35 @@ npx anik-adhikari
 ## <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> GitHub Stats
 <!--
 <p align="">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=anik-adhikari&show_icons=true&locale=en&theme=gotham&hide_border=false&count_private=true" alt="anik-adhikari" height="170"/>
-  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=anik-adhikari&theme=gotham&hide_border=false&count_private=true" alt="anik-adhikari" height="170"/>
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=anik-adhikari&show_icons=true&locale=en&theme=github_dark&hide_border=false&count_private=true" alt="anik-adhikari" height="170"/>
+  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=anik-adhikari&theme=github_dark&hide_border=false&count_private=true" alt="anik-adhikari" height="170"/>
 </p>
 -->
 
-<div align='center'>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anik-adhikari&theme=gotham" width="33%" alt="Repos per Language"/>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anik-adhikari&theme=gotham" width="33%" alt="GitHub Stats"/>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anik-adhikari&theme=gotham" width="33%" alt="Most Commit Language"/>
+<div align='justify'>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anik-adhikari&theme=github_dark" width="33%" alt="Repos per Language"/>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anik-adhikari&theme=github_dark" width="33%" alt="GitHub Stats"/>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anik-adhikari&theme=github_dark" width="33%" alt="Most Commit Language"/>
+</div>
+
+<div align='justify'>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anik-adhikari&theme=github_dark" width="66.70%" alt="GitHub Profile Overview"/>&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anik-adhikari&theme=github_dark&utcOffset=8" width="32.80%" alt="GitHub Commits"/>
 </div>
 
 <!--
 | Repos per Language | Stats | Most Commit Language |
 |--------------------|-------|----------------------|
-| ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anik-adhikari&theme=gotham) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anik-adhikari&theme=gotham) | ![Most Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anik-adhikari&theme=gotham) |
+| ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anik-adhikari&theme=github_dark) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anik-adhikari&theme=github_dark) | ![Most Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anik-adhikari&theme=github_dark) |
 -->
 
+<!--
 <details>
   <summary>Quick Overview</summary>
          
 <br></br>         
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anik-adhikari&theme=gotham&show_icons=true&include_all_commits=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anik-adhikari&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anik-adhikari&theme=github_dark&utcOffset=8)
 
 </details>
+-->
 
 
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
