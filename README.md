@@ -178,51 +178,10 @@ npx anik-adhikari
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2047%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.76%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-🌆 Daytime                285 commits         ████████░░░░░░░░░░░░░░░░░   30.55 % 
-🌃 Evening                278 commits         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-🌙 Night                  313 commits         ████████░░░░░░░░░░░░░░░░░   33.55 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Tuesday                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Wednesday                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Thursday                 185 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Friday                   178 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Saturday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Sunday                   216 commits         ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               2 hrs 5 mins        ██████████████████░░░░░░░   72.71 % 
-Other                    45 mins             ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    2 hrs 52 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 20:14:11 UTC
+ Last Updated on 15/05/2026 20:00:15 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
