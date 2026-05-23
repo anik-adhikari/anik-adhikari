@@ -180,45 +180,8 @@ npx anik-adhikari
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.76%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-🌆 Daytime                285 commits         ████████░░░░░░░░░░░░░░░░░   30.55 % 
-🌃 Evening                278 commits         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-🌙 Night                  313 commits         ████████░░░░░░░░░░░░░░░░░   33.55 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Tuesday                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Wednesday                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Thursday                 185 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Friday                   178 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Saturday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Sunday                   216 commits         ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               1 hr 44 mins        ████████████████████████░   95.26 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-
-🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 49 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2026 20:20:03 UTC
+ Last Updated on 23/05/2026 19:44:16 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
