@@ -178,7 +178,7 @@ npx anik-adhikari
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-604.13%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -209,20 +209,20 @@ Sunday                   260 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     2 hrs 34 mins       ████████████████████████░   94.32 % 
-Java Properties          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Java                     2 hrs 49 mins       ███████████████████████░░   93.48 % 
+Java Properties          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 44 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/06/2026 20:31:51 UTC
+ Last Updated on 26/06/2026 20:18:02 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
