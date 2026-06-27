@@ -182,47 +182,8 @@ npx anik-adhikari
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-604.13%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-🌆 Daytime                327 commits         ████████░░░░░░░░░░░░░░░░░   30.14 % 
-🌃 Evening                328 commits         ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌙 Night                  365 commits         ████████░░░░░░░░░░░░░░░░░   33.64 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   163 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Tuesday                  85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Wednesday                46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Thursday                 217 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Friday                   200 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Sunday                   260 commits         ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Java                     2 hrs 49 mins       ███████████████████████░░   93.48 % 
-Java Properties          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-
-🔥 Editors: 
-IntelliJ IDEA            3 hrs               █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    3 hrs               █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 26/06/2026 20:18:02 UTC
+ Last Updated on 27/06/2026 19:53:23 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
