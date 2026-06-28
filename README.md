@@ -180,10 +180,51 @@ npx anik-adhikari
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-604.13%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-625.39%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+🌆 Daytime                327 commits         ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+🌃 Evening                346 commits         ████████░░░░░░░░░░░░░░░░░   31.37 % 
+🌙 Night                  365 commits         ████████░░░░░░░░░░░░░░░░░   33.09 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   163 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Tuesday                  85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Wednesday                46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Thursday                 217 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Friday                   200 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Sunday                   278 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+```
 
 
- Last Updated on 27/06/2026 19:53:23 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Java                     2 hrs 20 mins       ███████████████████████░░   92.09 % 
+Java Properties          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+
+🔥 Editors: 
+IntelliJ IDEA            2 hrs 32 mins       █████████████████████████   99.83 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+
+💻 Operating System: 
+Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 28/06/2026 19:54:51 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
