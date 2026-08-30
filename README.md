@@ -211,43 +211,41 @@ Sunday                   296 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 53 mins        █████████████████████████   99.57 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+TypeScript               1 hr 37 mins        █████████████████████████   100.00 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 53 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (38.91%)
+⏱ AI Coding Time: 41 mins (42.51%)
 
-✍️ 0 lines written by AI, 14 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 13 lines written by hand (0.0% AI-written)
 
 🔤 127,020 Input Tokens, 951 Output Tokens
 
 💵 $0.40 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 10 AI Prompts
+🧠 3 AI Sessions, 9 AI Prompts
 
 Github-Copilot           18 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 76 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 83.78% of changed lines were hand-edited
+📝 Concise Prompter — average 81 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 76.92% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 21:05:00 UTC
+ Last Updated on 30/08/2026 21:23:03 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
