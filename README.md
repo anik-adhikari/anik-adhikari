@@ -182,26 +182,26 @@ npx anik-adhikari
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-677.38%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-731.33%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-🌆 Daytime                369 commits         ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-🌃 Evening                390 commits         ████████░░░░░░░░░░░░░░░░░   30.59 % 
-🌙 Night                  425 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌞 Morning                91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+🌆 Daytime                379 commits         ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+🌃 Evening                426 commits         ████████░░░░░░░░░░░░░░░░░   31.07 % 
+🌙 Night                  475 commits         █████████░░░░░░░░░░░░░░░░   34.65 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   187 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Wednesday                54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Thursday                 253 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Friday                   222 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Sunday                   334 commits         ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Monday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Wednesday                54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Thursday                 283 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Friday                   262 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Saturday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Sunday                   350 commits         ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
 ```
 
 
@@ -211,39 +211,39 @@ Sunday                   334 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 16 mins        █████████████████████████   100.00 % 
+TypeScript               15 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 16 mins        █████████████████████████   100.00 % 
+Linux                    15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (47.85%)
+⏱ AI Coding Time: 3 mins (19.42%)
 
-✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 127,020 Input Tokens, 951 Output Tokens
+🔤 46,851 Input Tokens, 853 Output Tokens
 
-💵 $0.40 Estimated AI Cost This Week
+💵 $0.15 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Github-Copilot           18 lines            █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 88 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 76.0% of changed lines were hand-edited
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 21:12:41 UTC
+ Last Updated on 03/09/2026 21:14:02 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
