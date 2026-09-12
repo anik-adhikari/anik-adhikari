@@ -211,43 +211,40 @@ Sunday                   350 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 4 mins        █████████████████████████   99.08 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               3 hrs 27 mins       █████████████████████████   100.00 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (41.74%)
+⏱ AI Coding Time: 1 hr 2 mins (30.33%)
 
-✍️ 0 lines written by AI, 208 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 168 lines written by hand (0.0% AI-written)
 
-🔤 624,095 Input Tokens, 3,367 Output Tokens
+🔤 96,155 Input Tokens, 2,159 Output Tokens
 
-💵 $1.92 Estimated AI Cost This Week
+💵 $0.32 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 21 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
-Github-Copilot           1 lines             █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 363 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 99.77% of changed lines were hand-edited
+📝 Concise Prompter — average 193 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 21:09:25 UTC
+ Last Updated on 12/09/2026 20:47:57 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
