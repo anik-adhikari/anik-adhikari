@@ -211,37 +211,37 @@ Sunday                   350 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        █████████████████████████   100.00 % 
+TypeScript               28 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 18 mins        █████████████████████████   100.00 % 
+Linux                    28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (17.92%)
+⏱ AI Coding Time: 8 mins (28.97%)
 
-✍️ 0 lines written by AI, 93 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 77 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,462 characters per prompt
+📚 Verbose Prompter — average 1,898 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 21:33:19 UTC
+ Last Updated on 17/09/2026 21:37:08 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
