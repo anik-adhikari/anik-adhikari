@@ -178,9 +178,9 @@ npx anik-adhikari
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-751.73%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -211,39 +211,43 @@ Sunday                   350 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     7 mins              ███████████████░░░░░░░░░░   61.79 % 
-JavaScript               4 mins              █████████░░░░░░░░░░░░░░░░   37.61 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+JavaScript               1 hr 38 mins        ████████████░░░░░░░░░░░░░   49.29 % 
+HTML                     1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   36.79 % 
+CSS                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.00 % 
+Linux                    3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (59.87%)
+⏱ AI Coding Time: 24 mins (12.14%)
 
-✍️ 0 lines written by AI, 2,369 lines written by hand (0.0% AI-written)
+✍️ 38 lines written by AI, 3,622 lines written by hand (1.04% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 153,663 Input Tokens, 1,906 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.49 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
+
+Github-Copilot           165 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 76 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.04% of written lines came from AI
+📝 Concise Prompter — average 357 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 96.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 21:40:46 UTC
+ Last Updated on 24/09/2026 21:42:49 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
