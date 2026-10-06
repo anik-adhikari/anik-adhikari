@@ -178,9 +178,9 @@ npx anik-adhikari
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-751.90%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -211,23 +211,43 @@ Sunday                   352 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               38 mins             █████████████░░░░░░░░░░░░   50.15 % 
+HTML                     32 mins             ██████████░░░░░░░░░░░░░░░   41.86 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 48 mins (63.26%)
+
+✍️ 91 lines written by AI, 47 lines written by hand (65.94% AI-written)
+
+🔤 79,610 Input Tokens, 218 Output Tokens
+
+💵 $0.24 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 7 AI Prompts
+
+Github-Copilot           159 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 65.94% of written lines came from AI
+📝 Concise Prompter — average 113 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 41.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 21:47:04 UTC
+ Last Updated on 06/10/2026 00:15:12 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
