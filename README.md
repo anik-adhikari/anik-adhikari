@@ -211,23 +211,45 @@ Sunday                   352 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 12 mins        ████████████████████████░   95.44 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  53 mins             █████████████████░░░░░░░░   69.99 % 
+Copilot CLI              22 mins             ████████░░░░░░░░░░░░░░░░░   30.01 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 25 mins (32.78%)
+
+✍️ 6 lines written by AI, 82 lines written by hand (6.82% AI-written)
+
+🔤 100,845 Input Tokens, 11,539 Output Tokens
+
+💵 $0.07 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 3 AI Prompts
+
+Github-Copilot           62 lines            ███████████████████████░░   91.18 % 
+GPT                      6 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 6.82% of written lines came from AI
+📝 Concise Prompter — average 45 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 95.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 22:46:33 UTC
+ Last Updated on 29/10/2026 22:55:35 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
