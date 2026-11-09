@@ -178,30 +178,26 @@ npx anik-adhikari
 ## <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> My Routine
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2055%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2017%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-752.21%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-🌆 Daytime                401 commits         ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-🌃 Evening                426 commits         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-🌙 Night                  539 commits         █████████░░░░░░░░░░░░░░░░   36.89 % 
+🌞 Morning                95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+🌆 Daytime                401 commits         ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+🌃 Evening                429 commits         ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+🌙 Night                  539 commits         █████████░░░░░░░░░░░░░░░░   36.82 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Tuesday                  107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Wednesday                82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Thursday                 333 commits         ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-Friday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Saturday                 138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Sunday                   352 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Monday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Tuesday                  107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Wednesday                82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Thursday                 333 commits         ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Friday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Saturday                 138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Sunday                   352 commits         ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
 ```
 
 
@@ -211,45 +207,42 @@ Sunday                   352 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 12 mins        ████████████████████████░   95.44 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 3 mins              ███████████████████░░░░░░   74.65 % 
+Other                    1 min               ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████░░░░░░░░   69.99 % 
-Copilot CLI              22 mins             ████████░░░░░░░░░░░░░░░░░   30.01 % 
+VS Code                  3 mins              ██████████████████░░░░░░░   71.06 % 
+Antigravity Desktop      1 min               ███████░░░░░░░░░░░░░░░░░░   28.94 % 
 
 💻 Operating System: 
-Linux                    1 hr 16 mins        █████████████████████████   100.00 % 
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (32.78%)
+⏱ AI Coding Time: 4 mins (100.0%)
 
-✍️ 6 lines written by AI, 82 lines written by hand (6.82% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 100,845 Input Tokens, 11,539 Output Tokens
+🔤 17,122 Input Tokens, 2,496 Output Tokens
 
-💵 $0.07 Estimated AI Cost This Week
+💵 $0.02 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-Github-Copilot           62 lines            ███████████████████████░░   91.18 % 
-GPT                      6 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Github-Copilot           62 lines            █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.82% of written lines came from AI
-📝 Concise Prompter — average 45 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 95.04% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 68 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/10/2026 21:48:16 UTC
+ Last Updated on 09/11/2026 19:09:42 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
