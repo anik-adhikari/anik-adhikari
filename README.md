@@ -211,42 +211,45 @@ Sunday                   352 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 mins              ███████████████████░░░░░░   74.65 % 
-Other                    1 min               ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+HTML                     28 mins             ███████████░░░░░░░░░░░░░░   45.16 % 
+CSV                      16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+JavaScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-VS Code                  3 mins              ██████████████████░░░░░░░   71.06 % 
-Antigravity Desktop      1 min               ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+VS Code                  59 mins             ████████████████████████░   94.13 % 
+Antigravity Desktop      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (100.0%)
+⏱ AI Coding Time: 48 mins (76.31%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
-🔤 17,122 Input Tokens, 2,496 Output Tokens
+🔤 84,419 Input Tokens, 3,490 Output Tokens
 
-💵 $0.02 Estimated AI Cost This Week
+💵 $0.17 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 3 AI Sessions, 19 AI Prompts
 
 Github-Copilot           62 lines            █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 68 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 85 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/11/2026 23:39:24 UTC
+ Last Updated on 12/11/2026 00:56:36 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
