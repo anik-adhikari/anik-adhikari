@@ -211,23 +211,19 @@ Sunday                   352 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSV                      25 mins             ███████████░░░░░░░░░░░░░░   42.87 % 
-JavaScript               23 mins             ██████████░░░░░░░░░░░░░░░   39.01 % 
-HTML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+CSV                      20 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  57 mins             ████████████████████████░   94.97 % 
-Antigravity Desktop      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr                █████████████████████████   100.00 % 
+Linux                    20 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (71.81%)
+⏱ AI Coding Time: 11 mins (54.05%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -235,17 +231,17 @@ Linux                    1 hr                ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 16 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 114 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 85 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/11/2026 00:39:46 UTC
+ Last Updated on 20/11/2026 00:47:57 UTC
 <!--END_SECTION:waka-->
 
 ## <img src="https://media.giphy.com/media/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50"> Random Dev Quote 
